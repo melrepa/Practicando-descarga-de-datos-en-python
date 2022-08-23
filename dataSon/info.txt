@@ -1,0 +1,10 @@
+Indicadores de minería en Sonora
+
+        Indicadores de minería en Sonora.
+
+        Los datos se obtuvieron de Dercarga masiva de INEGI con fecha de 23 de agosto de 2022 (la base de datos se actualiza constantemente) 
+
+        
+Descargado el 2022-08-23 12:51:46
+Desde: https://www.inegi.org.mx/contenidos/masiva/indicadores/temas/mineria/mineria_26_xlsx.zip
+Nombre: mineriasonora.zip
